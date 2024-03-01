@@ -1,4 +1,4 @@
-package dowlath.io.practice.startpattern;
+package dowlath.io.practice.starpattern;
 
 /*
 
