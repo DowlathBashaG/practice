@@ -1,4 +1,4 @@
-package dowlath.io.practice;
+package dowlath.io.practice.tree;
 
 public class TreeNode1 {
     int val;

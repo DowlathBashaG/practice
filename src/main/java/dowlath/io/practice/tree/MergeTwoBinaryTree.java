@@ -1,4 +1,6 @@
-package dowlath.io.practice;
+package dowlath.io.practice.tree;
+
+import dowlath.io.practice.tree.TreeNode1;
 
 /*
 

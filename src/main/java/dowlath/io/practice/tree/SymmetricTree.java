@@ -1,4 +1,6 @@
-package dowlath.io.practice;
+package dowlath.io.practice.tree;
+
+import dowlath.io.practice.tree.TreeNode1;
 
 public class SymmetricTree {
     // left node is left and right node is right  & left node right and right node left ... this is the logical of this qn.

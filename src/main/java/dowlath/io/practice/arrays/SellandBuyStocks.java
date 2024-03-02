@@ -1,4 +1,4 @@
-package dowlath.io.practice;
+package dowlath.io.practice.arrays;
 
 public class SellandBuyStocks {
     public static void main(String[] args) {

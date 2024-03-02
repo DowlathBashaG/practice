@@ -1,4 +1,4 @@
-package dowlath.io.practice;
+package dowlath.io.practice.tree;
 
 /*
         Input 4 2 7 1 3 6 9

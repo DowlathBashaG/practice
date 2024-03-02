@@ -1,4 +1,4 @@
-package dowlath.io.practice;
+package dowlath.io.practice.arrays;
 
 import java.util.ArrayList;
 import java.util.List;
